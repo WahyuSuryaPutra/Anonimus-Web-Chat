@@ -1,7 +1,5 @@
 # Anonymous Chat Application
 
-![Anonymous Chat Logo](url/to/your/logo.png)
-
 ## Overview
 
 The Anonymous Chat Application is a platform that allows users to engage in anonymous conversations with others. It prioritizes user privacy, providing a space where individuals can communicate freely without the need for revealing personal information.
